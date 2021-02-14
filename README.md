@@ -19,7 +19,7 @@
 
 
 ## 사용기술
-### Server - IOCP모델을 이용한 실시간 stateless 소켓 통신 
+### Server - IOCP모델을 이용한 실시간 statful 소켓 통신 
 ![ioco](https://user-images.githubusercontent.com/43844233/107875927-1784d400-6f06-11eb-8a1e-c0d792da615b.JPG)
 
 ### Client - WinAPI를 사용하여 UI와 프론트엔드 구성
